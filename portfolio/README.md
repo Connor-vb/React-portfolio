@@ -1,4 +1,3 @@
-
 # React Portfolio
 
 ## Description
@@ -9,7 +8,6 @@ Connor-vb
 
 ## Dependencies
 React, React-dom, React-scripts, web-vitals
-
 
 ## Deployed Links
 https://connor-vb.github.io/React-portfolio/
