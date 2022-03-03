@@ -53,8 +53,8 @@ function App() {
           <a href="https://connor-vb.github.io/Cop-or-Not/">Cop or Not</a>
         </li>
         <li className="col">
-          <img src="https://media.istockphoto.com/photos/red-green-and-blue-picture-id119562112?b=1&k=20&m=119562112&s=170667a&w=0&h=hex3OcI3MCuF3j3huKqaqbM_QdP-VY4a00r2K7jTwe8=" alt="bucket" />
-          <a href>Work in Progress</a>
+          <img src="https://user-images.githubusercontent.com/90352499/156491989-1005f130-1965-46a7-9542-66cfbb60b246.png" alt="Swap Buddy" />
+          <a href="https://swap-buddy.herokuapp.com/">Swap Buddy</a>
         </li>
         <li className="col">
           <img src="https://media.istockphoto.com/photos/red-green-and-blue-picture-id119562112?b=1&k=20&m=119562112&s=170667a&w=0&h=hex3OcI3MCuF3j3huKqaqbM_QdP-VY4a00r2K7jTwe8=" alt="bucket" />
